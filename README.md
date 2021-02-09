@@ -1,2 +1,11 @@
-# basic-linex-commands
-linex command for 4th ECE-B
+# Basic Linux Commands:
+-cd (change directory forward)
+-../ (change directory backward)
+- pwd (present working directory)
+-ls (list of files)
+-rm (remove)
+-mkdir (create a directory or folder)
+-rmdir(remove directory)
+-touch (create a new file)
+-nano (edit a file)
+-cat (file discription)
