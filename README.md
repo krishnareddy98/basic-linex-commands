@@ -1,6 +1,6 @@
 # Basic Linux Commands:
--cd (change directory forward)
--../ (change directory backward)
+- cd (change directory forward)
+- ../ (change directory backward)
 - pwd (present working directory)
 - ls (list of files)
 - rm (remove)
